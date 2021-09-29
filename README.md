@@ -2,7 +2,7 @@
 
 **Team members**: Taotao Jiang, Albert Li, Peishan Li, Christina Lv, Jinghan (Katherine) Ma, Kushal Wijesundara, Michelle A. Zee
 
-Peishan Li is responsible for work in short term models and the IT industry.
+Peishan Li is responsible for work in short term market-level models and the IT industry.
 
 ## Project Description
 
