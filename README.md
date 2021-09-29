@@ -2,6 +2,8 @@
 
 **Team members**: Taotao Jiang, Albert Li, Peishan Li, Christina Lv, Jinghan (Katherine) Ma, Kushal Wijesundara, Michelle A. Zee
 
+Peishan Li is responsible for work in short term models and the IT industry.
+
 ## Project Description
 
 This project was developed by graduate students in Columbia University's Quantitative Methods in the Social Sciences program in collaboration with KPMG US. The purpose was to develop models that forecast the earnings growth in the overall S&P 500 Index as well as the S&P 500 Consumer Discretionary, Financials, Information Technology, Telecommunications, and Healthcare sectors. Models were constructed using traditional economic indicators as well as predicted recession and monetary policy features.
